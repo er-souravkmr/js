@@ -1,4 +1,4 @@
-# JavaScript DOM Manipulation Project
+# JavaScript Learning with small Projects.
 
 This project is aimed at learning DOM manipulation, promises, and API fetching using JavaScript till now i will add some more learning in future.
 
