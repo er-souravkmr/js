@@ -29,3 +29,6 @@ In this project, I created some small JavaScript application  that utilizes DOM 
 - **BMI Calc**: A small project which calculates BMI by taking weight and height of person. 
 - **A Digital Clock**: As name Specified. 
 - **A Guess Number Game**: It take max 10 guesses if correct you win game , else game over. Also show your Previous Guesses.
+
+
+## Thanks to Hitesh Chaudhary(Chai or Code) for the valuable tutorial 
